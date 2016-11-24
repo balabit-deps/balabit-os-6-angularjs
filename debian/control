@@ -1,0 +1,11 @@
+Source: angularjs
+Maintainer: bbalazs <bbalazs@balabit.hu>
+Priority: extra
+Section: web
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.2.13-1
+Homepage: http://code.angularjs.org/
+
+Package: angularjs
+Architecture: all
+Description: HTML enhanced for web apps!
